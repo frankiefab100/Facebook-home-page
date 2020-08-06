@@ -1,3 +1,9 @@
+#stories .plus {
+    position: relative;
+    align-self: center;
+    z-index: 5;
+    left: 85px;
+}
 
 #stories .card-1 {
     background-image: url(../img/card-back.jpg);
@@ -6,7 +12,7 @@
     height: 195px;
     width: 110px;
     border-radius: 8px;
-    margin-left:10px;
+    margin-left: 10px;
 }
 
 #stories .person-img {
@@ -21,3 +27,9 @@
     height: 40px;
 }
 
+#stories .arrow {
+    position: relative;
+    align-self: center;
+    z-index: 5;
+    right: 20px;
+}
