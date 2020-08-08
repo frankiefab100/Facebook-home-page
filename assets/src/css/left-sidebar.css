@@ -1,0 +1,81 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sidebar{
+    position: fixed;
+    top: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    
+}
+
+/* <!--Explore --> */
+
+.explore ul{
+    list-style: none;
+    margin:0;
+    padding:10px 0;
+}
+
+.explore ul li a{
+    font-family: Roboto;
+    padding: 12px 0 12px 12px;
+    text-decoration: none;
+    color: #1f1818;
+    display: block;
+}
+
+.explore ul li a:hover{
+    background-color: #f4f4f4;
+    border-radius: 8px;
+
+}
+
+.sidebar ul img{
+    border-radius: 100%;
+    width: 8%;
+    margin-right: 20px;
+}
+
+/* <!--Shortcuts--> */
+.shortcuts ul{
+    list-style: none;
+    margin:0;
+    padding:10px 0;
+}
+
+.shortcuts ul li a{
+    font-family: Roboto;
+    padding: 12px 0 12px 12px;
+    text-decoration: none;
+    color: #1f1818;
+    display: block;
+}
+
+.shortcuts ul li a:hover{
+    background-color: #f4f4f4;
+    border-radius: 8px;
+
+}
+
+.shortcuts ul img{
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
