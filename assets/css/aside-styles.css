@@ -1,0 +1,182 @@
+.right-nav {
+  width: 360px;
+  position: absolute;
+  right: 0;
+}
+
+/* Sponsored Section */
+
+.sponsored-body {
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.sponsored-body:hover {
+  background-color: #E8E8EB;
+}
+
+.sponsored-image {
+  height: 160px;
+  width: 160px;
+  border-radius: 8px;
+  background-color: #34DFFF;
+}
+
+.sponsored-desc {
+  margin-top: 10px;
+}
+
+.sponsored-desc-link,
+.sponsored-desc-desc {
+  margin-top: 5px;
+}
+
+/* Friend Requests Section */
+
+.friend-requests-body {
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.friend-requests-body:hover {
+  background-color: #E8E8EB;
+}
+
+.friend-requests-image {
+  height: 46.67px;
+  width: 46.67px;
+  border-radius: 100%;
+  vertical-align: middle;
+}
+
+.friend-requests-link a {
+  text-decoration: none;
+  margin-left: 150px;
+}
+
+.friend-requests-sub {
+  display: inline-block;
+}
+
+.friend-requests-desc {
+  vertical-align: middle;
+  margin-left: 3%;
+  line-height: 1.4rem;
+}
+
+.friend-requests-desc-sub {
+  vertical-align: top;
+  margin-left: 80px;
+}
+
+.action-btn {
+  margin: 5px -4px;
+  padding: 0 12px;
+  text-align: center;
+}
+
+.action-btn-lvl1 {
+  padding: 4px;
+  display: inline-block;
+}
+
+.action-btn-lvl2 {
+  padding: 10px 12px;
+  width: 129px;
+}
+
+.action-btn-lvl3 {
+  margin: 0 -3px;
+}
+
+/* Color of Confirm and Delete buttons */
+.action-color-confirm {
+  background-color: #2D88FF;
+  color: white;
+
+  border-radius: 6px;
+}
+
+.action-color-delete {
+  background-color: #E4E6EB;
+  color: #161616;
+
+  border-radius: 6px;
+}
+
+.action-color-confirm:hover {
+  background-color: #2071DB;
+}
+
+.action-color-delete:hover {
+  background-color: #CACBCE;
+}
+
+.action-label {
+  font-size: 15px;
+  margin: -4px 0;
+}
+
+
+/* Birthday Section */
+
+.birthday-body {
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.birthday-body:hover {
+  background-color: #E8E8EB;
+}
+
+.birthday-image {
+  height: 28px;
+  width: 28px;
+}
+
+.birthday-body-desc {
+  display: inline-block;
+}
+
+/* Messages Section */
+
+.contacts-body {
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.contacts-body:hover {
+  background-color: #E8E8EB;
+}
+
+.contacts-icon {
+  height: 32px;
+  width: 32px;
+}
+
+.contacts-profile {
+  height: 28px;
+  width: 28px;
+  border-radius: 100%;
+}
+
+.contacts-sub-header {
+  display: inline-block;
+}
+
+.contacts-sub-header-align {
+  margin-left: 50%;
+}
+
+.contacts-profile {
+  vertical-align: middle;
+}
+
+.contacts-body-sub {
+  display: inline-block;
+}
+
+.contacts-body-align {
+  margin-left: 3%;
+  vertical-align: middle;
+}

@@ -1,0 +1,35 @@
+#stories .plus {
+    position: relative;
+    align-self: center;
+    z-index: 5;
+    left: 85px;
+}
+
+#stories .card-1 {
+    background-image: url(../img/card-back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 195px;
+    width: 110px;
+    border-radius: 8px;
+    margin-left: 10px;
+}
+
+#stories .person-img {
+    border-radius: 50%;
+    border: 4px solid #ffffff;
+    width: 40px;
+    height: 40px;
+}
+
+#stories .rounded-circle {
+    width: 40px;
+    height: 40px;
+}
+
+#stories .arrow {
+    position: relative;
+    align-self: center;
+    z-index: 5;
+    right: 20px;
+}
