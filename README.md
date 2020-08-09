@@ -1,13 +1,16 @@
  Team Beginner i - Team project Page - Facebook-home-page
  Team lead
- Franklin Ohaegbulam -- @Frankiefab
-    - completed main body content
- Melissa Ugrai -- @Melissa
-    - complete stories section and compiled page together 
- Nenlap Ishaku -- @Nenlep
-    - completed the nav bar/header section
- Anuoluwapo Gideon Akintoye -- @GideonAkintoye
-    - completed left aside bar/menu
- Oluwapelumi Ainaebadejo -- @Oluwapelumi
-    - completed right aside bar/menu
+ 
+ <ul>
+ <li>Franklin Ohaegbulam -- @Frankiefab </li>
+    <li>- completed main body content </li>
+ <li>Melissa Ugrai -- @Melissa </li>
+    <li>- complete stories section and compiled page together </li>
+<li> Nenlap Ishaku -- @Nenlep </li>
+  <li>  - completed the nav bar/header section </li>
+ <li>Anuoluwapo Gideon Akintoye -- @GideonAkintoye </li>
+  <li>  - completed left aside bar/menu </li>
+<li> Oluwapelumi Ainaebadejo -- @Oluwapelumi</li>
+ <li>   - completed right aside bar/menu</li>
+ </ul>
 
