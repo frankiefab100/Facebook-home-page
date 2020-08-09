@@ -1,0 +1,47 @@
+html,
+body {
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+#wrapper {
+    overflow: hidden;
+    min-height: 100%;
+}
+
+#sidebarleft,
+#sidebarright {
+   
+    width: 250px;
+    max-width: 25%;
+    margin-bottom: -10000px;
+    padding-bottom: 10000px;
+    min-height: 100%;
+}
+
+#sidebarleft {
+    float: left;
+}
+
+#sidebarright {
+    float: right;
+}
+
+#main-body-content {
+    overflow: hidden
+}
